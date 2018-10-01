@@ -5,7 +5,7 @@
 
 **bold** 
 
-~~strinkethrough~~
+~~strikethrough~~
 
 
 #### to make a blog:
