@@ -1,3 +1,14 @@
-# Welcome to my blog
+# welcome to my blog!
 
-I'm glad you are here. I plan to talk about ...
+### subheader
+*italics* 
+
+**bold** 
+
+~~strinkethrough~~
+
+
+#### to make a blog:
+- [ ] enable the page in settings
+- [ ] config.yml file
+- [ ] index.md (for first page)
